@@ -21,13 +21,13 @@ Overall, the practice questions we did in class and at home were extremely helpf
 
 ## What I learned by doing this question 
 These were my instance variables I used on the test:
-'''
+	```
 private String team1;
 private String team2;
 private int score1;
 private int score2;
 private String active; //updated every time there was a score update 
-'''
+	```
 I learned that it would be better to use a boolean for the active team member than a String.
 Booleans would make the if and else statements way shorter and easier to work with. On the AP
 test, I used a lot of .equals which extended my lines of code. When I coded it out, I realized
