@@ -12,7 +12,7 @@ However, I then realized that we needed two math.radndoms.
 
 ## Prior experiences that helped 
 One thing that helped with this question was reviewing the Math.random before the test.
-This was 
+This was a huge refresher and when I got to this question I almost remembered the whole formula.
 
 ## What I learned by doing this question 
 I learned that adding +1 to the formula is essential in the formula, but I forgot it on the test :(
