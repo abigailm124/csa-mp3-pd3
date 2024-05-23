@@ -16,4 +16,4 @@ In addition, we were supposed to use || for the loop but I used &&.
 A prior experience that helped was the mock exam and when we reviewed it. Going through question 4 as a class reinforced my practice with 2D Arrays and helped me with the question on test day.
 
 ## What I learned by doing this question 
-I learned that 
+I learned that in a while loop, you have to be careful when using || because it can lead to an infinite while loop. I realized this when I coded it out on replit and it never finished running. 
