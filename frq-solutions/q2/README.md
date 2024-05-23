@@ -35,4 +35,4 @@ that if I wasn't in such a rush and I thought about it for a little longer befor
 writing, I could have been more efficient and saved a lot of time.
 
 ## CSA Pain
-![IMG_5375](https://github.com/abigailm124/csa-mp3-pd3/assets/155492909/80d60b68-5ee7-4263-b0ff-96fe530d54b5)
+![EF2D5BF0-3059-4AC6-B809-FF8266D547EC](https://github.com/abigailm124/csa-mp3-pd3/assets/155492909/92580d4f-fbd3-4a9b-bc77-2534fb844ec5)
