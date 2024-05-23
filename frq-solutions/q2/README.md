@@ -33,3 +33,6 @@ Booleans would make the if and else statements way shorter and easier to work wi
 test, I used a lot of .equals which extended my lines of code. When I coded it out, I realized
 that if I wasn't in such a rush and I thought about it for a little longer before I started
 writing, I could have been more efficient and saved a lot of time.
+
+## CSA Pain
+![IMG_5375](https://github.com/abigailm124/csa-mp3-pd3/assets/155492909/80d60b68-5ee7-4263-b0ff-96fe530d54b5)
