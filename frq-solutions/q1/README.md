@@ -1,7 +1,7 @@
 # 2024 Question 1
 
 ## This question is about 
-- Math.random
+- Math.random()
 - 95% chance
 - simulating a probability
 - updating instance variables
