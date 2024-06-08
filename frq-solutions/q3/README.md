@@ -15,5 +15,5 @@ In the beginning of the year, we had a lot of practice with String methods to ge
 ## What I learned by doing this question 
 I learned that we could've used a simplier way of checking if a String is contained in another String just by using .contains, which I found on tiktok later that day. I wasn't farmilar with this method, however, I learned that this would've been more efficient. Regardless, .contains is not part of our curriculum or the JQR so I probably would've just used indexOf anyway. 
 
-## CSA Pain
+## AP CSA 2024
 ![phonto](https://github.com/abigailm124/csa-mp3-pd3/assets/155492909/db82ba44-26ed-4620-8724-c5c768dbfc78)
