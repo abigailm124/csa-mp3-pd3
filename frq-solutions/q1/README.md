@@ -15,5 +15,5 @@ One thing that helped with this question was reviewing the Math.random right bef
 ## What I learned by doing this question 
 I learned that adding +1 to the formula is essential in the formula, but I forgot it on the test :(. This keeps me up at night, but, life goes on (or so they say). 
 
-## CSA Pain
+## AP CSA 2024
 ![IMG_5375](https://github.com/abigailm124/csa-mp3-pd3/assets/155492909/0dcc448d-5e3a-4ba7-8305-b86b989c49eb)
