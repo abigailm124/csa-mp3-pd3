@@ -18,5 +18,5 @@ A prior experience that helped me with this question was the mock exam. In my op
 ## What I learned by doing this question 
 I learned that in a while loop, you have to be careful when using || because it can lead to an infinite while loop. I realized this when I coded it out on replit and it never finished running. 
 
-## CSA Pain
+## AP CSA 2024
 ![F52E013F-ED94-41B5-B51D-95CD87CF19AE](https://github.com/abigailm124/csa-mp3-pd3/assets/155492909/cbccbe95-77a5-4490-8044-7cd81c5211f7)
